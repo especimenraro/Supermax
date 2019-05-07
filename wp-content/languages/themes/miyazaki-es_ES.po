@@ -1,0 +1,519 @@
+# Translation of Themes - Miyazaki in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Miyazaki package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-07 20:34:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Miyazaki\n"
+
+#. Theme Name of the theme
+msgid "Miyazaki"
+msgstr "Miyazaki"
+
+#. Description of the theme
+msgid "Miyazaki is a stylish, contrast heavy WordPress theme for blogs, portfolios and magazines. It features a masonry grid on the archive pages, a striking design, Block Editor/Gutenberg support, infinite scroll loading that can be set to load more posts on button click or when the visitor reaches the bottom of the page, threee widget areas in the footer, settings for what post meta to display on archive pages and on single posts, custom logo support, a search overlay that can be accessed from any page, and much more."
+msgstr "Miyazaki es un tema de WordPress estiloso, de alto contraste, para blogs, porfolios y revistas. Tiene como características una cuadrícula de muro en las páginas de archivo, un diseño impactante, compatibilidad con Gutenberg, scroll infinito que puede establecerse para cargar más entradas al hacer clic en un botón o cuando el visitante llega al pie de la página, tres áreas de widgets en el pie de página, ajustes para qué datos meta de la entrada mostrar en las páginas de archivo y en las entradas individuales, compatibilidad con logo personalizado, una búsqueda superpuesta a la que puede accederse desde cualquier página, y mucho más."
+
+#: functions.php:1108
+msgid "Disable Search"
+msgstr "Desactivar la búsqueda"
+
+#: functions.php:1109
+msgid "Check to hide the search toggle and search form in the header and mobile menu."
+msgstr "Márcalo para ocultar el selector de búsqueda de la cabecera y del menú móvil."
+
+#. Translators: $s = name of the theme developer
+#: footer.php:36
+msgctxt "Translators: $s = name of the theme developer"
+msgid "Theme by %s"
+msgstr "Tema de %s"
+
+#: header.php:91
+msgid "Close"
+msgstr "Cerrar"
+
+#: header.php:90
+msgid "Menu"
+msgstr "Menú"
+
+#: related-posts.php:64
+msgid "Read Next"
+msgstr "Leer siguiente"
+
+#: widgets/recent-comments.php:121
+msgid "Number of comments to display"
+msgstr "Número de comentarios a mostrar"
+
+#. Translators: %1$s = post title, %2$s = post date
+#: widgets/recent-comments.php:60
+msgctxt "Translators: %1$s = post title, %2$s = post date"
+msgid "Comment to %1$s, posted %2$s"
+msgstr "Comentario a %1$s, escrito el %2$s"
+
+#: widgets/recent-comments.php:10
+msgid "Recent Comments"
+msgstr "Comentarios recientes"
+
+#: widgets/recent-comments.php:8
+msgid "Displays recent comments with user avatars."
+msgstr "Mostrar los comentarios recientes con las fotos de usuario."
+
+#: widgets/recent-posts.php:131 widgets/recent-comments.php:123
+msgid "Defaults to 3 if empty"
+msgstr "Por defecto 3 si está vacío"
+
+#: widgets/recent-posts.php:129
+msgid "Number of posts to display"
+msgstr "Número de entradas a mostrar"
+
+#: widgets/recent-posts.php:124 widgets/recent-comments.php:116
+msgid "Title"
+msgstr "Título"
+
+#: widgets/recent-posts.php:10
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: widgets/recent-posts.php:8
+msgid "Displays recent blog entries."
+msgstr "Muestra las entradas recientes del blog"
+
+#: comments.php:67
+msgid "Comments closed"
+msgstr "Comentarios cerrados"
+
+#: comments.php:36
+msgid "Newer Comments"
+msgstr "Comentarios más nuevos"
+
+#: comments.php:35
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: comments.php:18
+msgid "Add Yours"
+msgstr "Añade el tuyo"
+
+#. Translators: %s = the number of comments
+#: comments.php:9
+msgctxt "Translators: %s = the number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: 404.php:11
+msgid "front page"
+msgstr "página de inicio"
+
+#: 404.php:11
+msgid "We could not find the page you’re looking for. Do you want to go back to the %s?"
+msgstr "No hemos podido encontrar la página que estás buscando. ¿Quieres volver atrás a la %s?"
+
+#: index.php:71
+msgid "We couldn’t find any matching search results, but feel free to try again with different words."
+msgstr "No hemos podido encontrar ningún resultado de la búsqueda que coincida, pero siéntete libre de intentarlo de nuevo con palabras diferentes."
+
+#: pagination.php:70
+msgid "Next Page"
+msgstr "Página siguiente"
+
+#: pagination.php:66
+msgid "Previous Page"
+msgstr "Página anterior"
+
+#: pagination.php:42
+msgid "Nothing more to load."
+msgstr "No hay más que cargar."
+
+#: pagination.php:38
+msgid "Load More"
+msgstr "Cargar más"
+
+#: functions.php:1276
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:1248
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:1247
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "Más grande"
+
+#: functions.php:1242
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:1241
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:1236
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:1235
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "Normal"
+
+#: functions.php:1230
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:1229
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "Pequeño"
+
+#: functions.php:1219
+msgctxt "Name of the white color in the block editor palette"
+msgid "White"
+msgstr "Blanco"
+
+#: functions.php:1214
+msgctxt "Name of the light gray color in the block editor palette"
+msgid "Light gray"
+msgstr "Gris suave"
+
+#: functions.php:1209
+msgctxt "Name of the gray color in the block editor palette"
+msgid "Gray"
+msgstr "Gris"
+
+#: functions.php:1204
+msgctxt "Name of the dark gray color in the block editor palette"
+msgid "Dark gray"
+msgstr "Gris oscuro"
+
+#: functions.php:1199
+msgctxt "Name of the black color in the block editor palette"
+msgid "Black"
+msgstr "Negro"
+
+#: functions.php:1194
+msgctxt "Name of the accent color in the block editor palette"
+msgid "Accent"
+msgstr "Énfasis"
+
+#: functions.php:1135
+msgid "Check to hide the related posts section on single posts."
+msgstr "Marcar para ocultar la sección de entradas relacionadas en las entradas individuales."
+
+#: functions.php:1134
+msgid "Disable Related Posts"
+msgstr "Desactivar las entradas relacionadas"
+
+#: functions.php:1117
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#: functions.php:1082
+msgid "Previous and next page links"
+msgstr "Enlaces de página anterior y siguiente"
+
+#: functions.php:1081
+msgid "Load more on scroll"
+msgstr "Cargar más al hacer scroll"
+
+#: functions.php:1080
+msgid "Load more on button click"
+msgstr "Cargar más al hacer clic en el botón"
+
+#: functions.php:1078
+msgid "Pagination Type:"
+msgstr "Tipo de paginación:"
+
+#: functions.php:1064
+msgid "Choose which type of pagination to display."
+msgstr "Elige qué tipo de paginación quieres mostrar."
+
+#: functions.php:1061
+msgid "Pagination"
+msgstr "Paginación"
+
+#: functions.php:1052
+msgid "Select the post meta to display in post previews on archive pages."
+msgstr "Selecciona los datos meta de la entrada a mostrar en la vista previa de la entrada en las páginas de archivo."
+
+#: functions.php:1051
+msgid "Post Meta In Previews:"
+msgstr "Datos meta de entrada en la vista previa:"
+
+#: functions.php:1038
+msgid "Select the post meta to display below the content on single posts."
+msgstr "Selecciona los datos meta de la entrada a mostrar debajo del contenido en las entradas individuales."
+
+#: functions.php:1037
+msgid "Post Meta on Single Posts (bottom):"
+msgstr "Datos meta de entrada en las entradas individuales (abajo):"
+
+#: functions.php:1024
+msgid "Select the post meta to display above the content on single posts."
+msgstr "Selecciona los datos meta de la entrada a mostrar encima del contenido en las entradas individuales."
+
+#: functions.php:1023
+msgid "Post Meta on Single Posts (top):"
+msgstr "Datos meta de entrada en las entradas individuales (arriba):"
+
+#: functions.php:1010
+msgid "Sticky status"
+msgstr "Estado fijo"
+
+#: functions.php:1008
+msgid "Edit link (for logged in users)"
+msgstr "Editar enlace (para usuarios conectados)"
+
+#: functions.php:1007
+msgid "Comments"
+msgstr "Comentarios"
+
+#: functions.php:1006
+msgid "Categories"
+msgstr "Categorías"
+
+#: functions.php:999
+msgid "Choose which meta information to display in Miyazaki."
+msgstr "Elige qué información meta mostrar en Miyazaki"
+
+#: functions.php:996
+msgid "Post Meta"
+msgstr "Datos meta de la entrada"
+
+#: functions.php:988
+msgid "Disable Fallback Image"
+msgstr "Desactivar la imagen de colchón"
+
+#: functions.php:971
+msgid "Fallback Image"
+msgstr "Imagen de colchón"
+
+#: functions.php:972
+msgid "The selected image will be used when a post is missing a featured image. A default fallback image included in the theme will be used if no image is set."
+msgstr "La imagen seleccionada se usará cuando una entrada no tenga imagen destacada. Una imagen de colchón por defecto incluida en el tema se utilizará si no se establece una imagen."
+
+#: functions.php:961
+msgid "Checking this will decrease load times, but also make images look less sharp on high-resolution screens."
+msgstr "Marcando esto bajarán los tiempos de carga, pero también hará que las imágenes se vean menos nítidas en pantallas de alta resolución."
+
+#: functions.php:960
+msgid "Use Low-Resolution Images"
+msgstr "Utilizar imáegnes de baja resolución"
+
+#: functions.php:947
+msgid "Settings for images in Miyazaki."
+msgstr "Ajustes de imágenes en Miyazaki."
+
+#: functions.php:944
+msgid "Images"
+msgstr "Imágenes"
+
+#: functions.php:754
+msgid "By post author"
+msgstr "Por autor de entrada"
+
+#: functions.php:694
+msgid "Sticky post"
+msgstr "Entrada fija"
+
+#: functions.php:675 functions.php:1011
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: functions.php:666
+msgid "In"
+msgstr "En"
+
+#: functions.php:657
+msgctxt "%s = author name"
+msgid "By %s"
+msgstr "Por %s"
+
+#: functions.php:648 functions.php:1009
+msgid "Post date"
+msgstr "Fecha de la entrada"
+
+#: header.php:107 functions.php:461 functions.php:1091
+msgid "Search"
+msgstr "Buscar"
+
+#: functions.php:456
+msgid "Day"
+msgstr "Día"
+
+#: functions.php:454
+msgid "Month"
+msgstr "Mes"
+
+#: functions.php:452
+msgid "Year"
+msgstr "Año"
+
+#: functions.php:450 functions.php:1005
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:448
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: functions.php:446
+msgid "Category"
+msgstr "Categoría"
+
+#: functions.php:428 functions.php:463
+msgid "Archives"
+msgstr "Archivos"
+
+#: functions.php:419
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: functions.php:417
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:415
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Estados"
+
+#: functions.php:413
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Enlaces"
+
+#: functions.php:411
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citas"
+
+#: functions.php:409
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: functions.php:407
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imágenes"
+
+#: functions.php:405
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerías"
+
+#: functions.php:403
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Minientradas"
+
+#: functions.php:368
+msgid "Widgets in this area will be shown in the third footer column."
+msgstr "Los widgets en este área se mostrarán en la tercera columna del pie de página."
+
+#: functions.php:358
+msgid "Widgets in this area will be shown in the second footer column."
+msgstr "Los widgets en este área se mostrarán en la segunda columna del pie de página."
+
+#: functions.php:348
+msgid "Widgets in this area will be shown in the first footer column."
+msgstr "Los widgets en este área se mostrarán en la primera columna del pie de página."
+
+#: functions.php:366
+msgid "Footer #3"
+msgstr "Pie de página #3"
+
+#: functions.php:356
+msgid "Footer #2"
+msgstr "Pie de página #2"
+
+#: functions.php:346
+msgid "Footer #1"
+msgstr "Pie de página #1"
+
+#: functions.php:79
+msgctxt "Teko font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:47
+msgid "Mobile Menu"
+msgstr "Menú móvil"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:706 functions.php:710 content.php:44
+msgid "Edit"
+msgstr "Editar"
+
+#: searchform.php:9
+msgctxt "Submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#. Author of the theme
+#. Translators: $s = name of the theme developer
+#: footer.php:36
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#: functions.php:920
+msgid "Retina logo"
+msgstr "Logo Retina"
+
+#: functions.php:921
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Escala el logo a la mitad del tamaño subido, haciéndolo nítido en pantallas de alta resolución."
+
+#: functions.php:935
+msgid "Disable Big Front Page Title"
+msgstr "Desactivar el título grande en la página de inicio"
+
+#: functions.php:936
+msgid "Check to remove the big site title on the front page. Only applies if you haven't uploaded a logo."
+msgstr "Marcar para eliminar el título grande del sitio en la página de inicio. Solo se aplica si no has subido un logo."
+
+#: functions.php:903
+msgid "Select a logo to display in the menu overlay on mobile. It should have the same dimensions as the regular logo."
+msgstr "Selecciona un logo para mostrar en el menú superpuesto en el móvil. Debería tener las mismas dimensiones que el logo normal."
+
+#: functions.php:898
+msgid "Overlay Logo"
+msgstr "Logo superpuesto"
+
+#: searchform.php:8
+msgctxt "Placeholder"
+msgid "Search for&hellip;"
+msgstr "Búsqueda para&hellip;"
+
+#: searchform.php:5
+msgctxt "Label"
+msgid "Search for:"
+msgstr "Búsqueda para:"
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"

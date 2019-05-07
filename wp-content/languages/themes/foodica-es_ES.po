@@ -1,0 +1,1016 @@
+# Translation of Themes - Foodica in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Foodica package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-23 18:35:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Foodica\n"
+
+#. Description of the theme
+msgid "Foodica is perfect for creating food based blogs and recipe websites. A beautiful featured slider and WooCommerce integration mean Foodica is packed with features to help you stand out. For DEMO and more details about the PRO version look here: https://www.wpzoom.com/free-wordpress-themes/foodica-lite/"
+msgstr "Foodica es perfecto para crear blogs de comida y webs de recetas. El tener un hermoso carrusel y estar integrado con WooCommerce significan que Foodica está repleto de características que te ayudarán a destacarte. Para la DEMO y más detalles sobre la versión PRO, visita: https://www.wpzoom.com/free-wordpress-themes/foodica-lite/"
+
+#. Theme Name of the theme
+msgid "Foodica"
+msgstr "Foodica"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el plugin: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#: inc/admin/admin.php:170
+msgid "https://www.wpzom.com/wordpress-food-themes/foodica-pro/"
+msgstr "https://www.wpzom.com/wordpress-food-themes/foodica-pro/"
+
+#: inc/admin/admin.php:61 inc/admin/admin.php:104 inc/admin/admin.php:310
+msgid "https://www.wpzoom.com/wordpress-food-themes/foodica-pro/"
+msgstr "https://www.wpzoom.com/wordpress-food-themes/foodica-pro/"
+
+#: sidebar.php:28
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:20
+msgid "Popular Tags"
+msgstr "Etiquetas populares"
+
+#: sidebar.php:16
+msgid "Categories"
+msgstr "Categorías"
+
+#: sidebar.php:12
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activo."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización requerida"
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "A instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "A instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Origen"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: inc/jetpack/plugin-enhancements.php:268
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/jetpack/plugin-enhancements.php:258
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para actualizar en este momento."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activar en este momento."
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Fallo en la activación del plugin."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Han terminado todas las instalaciones y activaciones."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Ver detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. Template Name of the theme
+msgid "Full-width Page"
+msgstr "Página a ancho completo"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:2
+msgid "Enter your keywords..."
+msgstr "Ingrese su búsqueda..."
+
+#: search.php:5
+msgid "Search Results for"
+msgstr "Resultados de búsqueda para"
+
+#: index.php:18
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: inc/widgets.php:136
+msgid "Number of posts to show:"
+msgstr "Número de entradas a mostrar:"
+
+#: inc/widgets.php:126
+msgid "- Recent in all categories -"
+msgstr "- Reciente en todas las categorías -"
+
+#: inc/widgets.php:124
+msgid "Choose category:"
+msgstr "Elige categoría:"
+
+#: inc/widgets.php:120
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets.php:71
+msgid "Permanent Link to %s"
+msgstr "Enlace permanente a %s"
+
+#: inc/widgets.php:49
+msgctxt "Widget title link"
+msgid "%s &raquo;"
+msgstr "%s &raquo;"
+
+#: inc/jetpack/plugin-enhancements.php:396
+msgid "Your request was processed. See ya!"
+msgstr "Tu solicitud fue procesada. ¡Nos vemos!"
+
+#: inc/jetpack/plugin-enhancements.php:389
+msgid "Your request failed permission check."
+msgstr "Tu petición no pasó la comprobación de permisos."
+
+#: inc/jetpack/plugin-enhancements.php:293
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr "Para utilizar %1$s, por favor activa el plugin Jetpack&rsquo;s %2$s."
+
+#: inc/jetpack/plugin-enhancements.php:266
+msgid " Please install %1$s. %2$s"
+msgstr " Por favor, instala %1$s. %2$s"
+
+#: inc/jetpack/plugin-enhancements.php:256
+msgid " Please activate %1$s. %2$s"
+msgstr " Por favor activa %1$s. %2$s"
+
+#: inc/jetpack/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr "Módulo de tipos de contenido personalizados"
+
+#: inc/jetpack/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr "no es necesario ningún módulo específico"
+
+#: inc/jetpack/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr "Portfolios"
+
+#: inc/jetpack/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr "Recomendaciones"
+
+#: inc/jetpack/plugin-enhancements.php:142
+msgid "Comics"
+msgstr "Comics"
+
+#: inc/jetpack/plugin-enhancements.php:133
+msgid "Menus"
+msgstr "Menús"
+
+#: inc/jetpack/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: inc/jetpack/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: inc/jetpack/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: inc/jetpack/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr "Plugin Jetpack"
+
+#: inc/jetpack/plugin-enhancements.php:82
+msgid "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr "El %1$s es necesario utilizar algunas de las características de este tema, incluyendo: "
+
+#: inc/customizer/trt-customize-pro/upgrade-pro/class-customize.php:79
+msgid "View Foodica PRO"
+msgstr "Foodica"
+
+#: inc/customizer/trt-customize-pro/upgrade-pro/class-customize.php:78
+msgid "Unlock more features: 10 Color Schemes, Recipe Index, 600+ Google Fonts, 100+ Color options and more!"
+msgstr "Desbloquea más funciones: 10 combinaciones de colores, índice de recetas, más de 600 fuentes de Google, más de 100 opciones de color y más!"
+
+#: inc/customizer/bootstrap.php:20
+msgid "Footer Menu Background Color"
+msgstr "Color de fondo del menú de pie de página"
+
+#: content.php:28 content-page.php:13 content-sticky.php:28 image.php:99
+#: content-single.php:26
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/admin/admin.php:302
+msgid "Support"
+msgstr "Ayuda"
+
+#: inc/admin/admin.php:292
+msgid "Typography Options"
+msgstr "Opciones de tipografía"
+
+#: inc/admin/admin.php:287
+msgid "600+ Google Fonts"
+msgstr "Más de 600 fuentes de Google"
+
+#: inc/admin/admin.php:272
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: inc/admin/admin.php:232
+msgid "Recipe Index"
+msgstr "Índice de recetas"
+
+#: inc/admin/admin.php:227
+msgid "Demo Content Importer"
+msgstr "Contenido actualizado correctamente"
+
+#: inc/admin/admin.php:222
+msgid "Magazine Layout"
+msgstr "Diseño tipo revista"
+
+#: inc/admin/admin.php:217
+msgid "Responsive Layout"
+msgstr "Disposición adaptable"
+
+#: inc/admin/admin.php:213
+msgid "6"
+msgstr "6"
+
+#: inc/admin/admin.php:212
+msgid "Widget Areas"
+msgstr "Áreas de widget"
+
+#: inc/admin/admin.php:208
+msgid "1"
+msgstr "1"
+
+#: inc/admin/admin.php:207
+msgid "Custom Widgets"
+msgstr "Widgets personalizados"
+
+#: inc/admin/admin.php:200
+msgid "Features"
+msgstr "Funcionalidades"
+
+#: inc/admin/admin.php:148 inc/admin/admin.php:155
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/admin/admin.php:139 inc/admin/admin.php:303
+msgid "Support Forum"
+msgstr "Foro de Soporte"
+
+#: inc/admin/admin.php:129 inc/admin/admin.php:136
+msgid "Theme Documentation"
+msgstr "Documentación de la plantilla"
+
+#: inc/admin/admin.php:110
+msgid "https://www.wpzoom.com/showcase/theme/foodica/"
+msgstr "https://www.wpzoom.com/showcase/theme/foodica/"
+
+#: inc/admin/admin.php:108
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/admin/admin.php:107 inc/admin/admin.php:135
+msgid "https://www.wpzoom.com/documentation/foodica-lite/"
+msgstr "https://www.wpzoom.com/documentation/foodica-lite/"
+
+#: inc/admin/admin.php:91
+msgid "Theme Screenshot"
+msgstr "Imagen del tema"
+
+#: inc/admin/admin.php:53
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#: inc/admin/admin.php:34
+msgid "You do not have the necessary permission to perform this action."
+msgstr "No tiene el permiso necesario para realizar esta acción."
+
+#: inc/admin/admin.php:31
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Error en la acción. Por favor, recarga la página y vuelve a intentarlo."
+
+#: pagination.php:5 image.php:104
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: pagination.php:4 image.php:103
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: image.php:97
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Comentarios y TrackBacks están ahora cerrados."
+
+#: image.php:95
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Los Trackbacks están cerrados, pero puede <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\"> para publicar un comentario </a>."
+
+#. translators: %s: trackback link
+#: image.php:93
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Los comentarios están cerrados, pero puede dejar un trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL para su entrada\" rel=\"trackback\">Trackback URL</a>."
+
+#. translators: %s: link to the post
+#: image.php:90
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Publicar un comentario\">Publicar un comentario</a> o deja un trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: functions.php:266
+msgid "Full Width (no sidebar)"
+msgstr "Ancho completo (sin barra lateral)"
+
+#: functions.php:262
+msgid "Default"
+msgstr "Por defecto"
+
+#: functions.php:244
+msgid "Post Layout"
+msgstr "Diseño de publicación"
+
+#: functions.php:209
+msgid "Header Social Icons"
+msgstr "Iconos Sociales en el encabezado"
+
+#: functions.php:197
+msgid "Footer: Column 4"
+msgstr "Pie de página: Columna 4"
+
+#: functions.php:188
+msgid "Footer: Column 3"
+msgstr "Pie de página: Columna 3"
+
+#: functions.php:179
+msgid "Footer: Column 2"
+msgstr "Pie de página: Columna 2"
+
+#: functions.php:170
+msgid "Footer: Column 1"
+msgstr "Pie de página: Columna 1"
+
+#: functions.php:157
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:31
+msgid "Footer Menu"
+msgstr "Menú de pie de página"
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: functions.php:29
+msgid "Top Menu"
+msgstr "Menu principal"
+
+#. Author URI of the theme
+#. translators: 1: designedby, 2: link, 3: span tag closed
+#: footer.php:66
+msgid "https://www.wpzoom.com/"
+msgstr "https://www.wpzoom.com/"
+
+#. translators: 1: poweredby, 2: link, 3: span tag closed
+#: footer.php:64
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#. translators: %s: post title
+#. translators: %s: link to the post
+#: content.php:37 content-sticky.php:37 wpzoom-slider.php:42
+msgid "Read More"
+msgstr "Leer más"
+
+#. translators: %s: post title
+#. translators: %s: link to the post
+#: content.php:37 content-sticky.php:37 wpzoom-slider.php:42
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+msgid "Comments are Disabled"
+msgstr "Los comentarios están deshabilitados"
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+msgid "% comments"
+msgstr "% comentarios"
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+msgid "1 comment"
+msgstr "1 comentarios"
+
+#: content.php:23 content-sticky.php:23 wpzoom-slider.php:37
+msgid "0 comments"
+msgstr "Sin comentarios"
+
+#: content.php:17 content-sticky.php:17
+msgid "by"
+msgstr "por"
+
+#: content-single.php:50
+msgid "Print"
+msgstr "Imprimir"
+
+#: content-single.php:50
+msgid "Print this Page"
+msgstr "Imprimir esta página"
+
+#: content-single.php:47
+msgid "<h4>Tags</h4>"
+msgstr "<h4>Etiquetas</h4>"
+
+#: content-single.php:25
+msgid "in"
+msgstr "en"
+
+#: content-single.php:24
+msgid "on"
+msgstr "el"
+
+#: content-single.php:23
+msgid "Written by"
+msgstr "Escrito por"
+
+#: content-page.php:21 image.php:63 content-single.php:42
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:24
+msgid "It seems that we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Quizás una nueva búsqueda puede ayudarte."
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que encaje con tus términos de la búsqueda. Inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: %s: link to new post page
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: comments.php:33
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr "Últimos comentarios &raquo;"
+
+#: comments.php:23
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:22
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:14
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/admin/admin.php:304
+msgid "Fast & Friendly Email Support"
+msgstr "Soporte rápido y amigable por correo electrónico"
+
+#: inc/admin/admin.php:297
+msgid "Instagram Bar in the Footer"
+msgstr "Barra de Instagram en el pie de página"
+
+#: inc/admin/admin.php:282
+msgid "100+ Color Options"
+msgstr "Más de 100 opciones de color"
+
+#: inc/admin/admin.php:277
+msgid "Carousel Widget"
+msgstr "Widget de carrusel"
+
+#: inc/admin/admin.php:267
+msgid "Advertising Options"
+msgstr "Opciones de publicidad"
+
+#: inc/admin/admin.php:262
+msgid "Extended WooCommerce Integration"
+msgstr "Integración con WooCommerce extendida"
+
+#: inc/admin/admin.php:257
+msgid "Built-in Social Buttons"
+msgstr "Botones sociales incorporados"
+
+#: inc/admin/admin.php:252
+msgid "Multiple Posts Layouts"
+msgstr "Múltiples diseños de entrada"
+
+#: inc/admin/admin.php:247
+msgid "3 Slider Styles"
+msgstr "3 estilos de carrusel"
+
+#: inc/admin/admin.php:242
+msgid "10 Color Schemes"
+msgstr "10 esquemas de colores"
+
+#: inc/admin/admin.php:237
+msgid "Recipe Shortcodes"
+msgstr "Shortcodes de recetas"
+
+#: inc/admin/admin.php:214
+msgid "15 (5 on Homepage)"
+msgstr "15 (5 en la página de inicio)"
+
+#: inc/admin/admin.php:209
+msgid "6 (Featured Categories, Carousel, Author Bio, Image Box)"
+msgstr "6 (Categorías destacadas, Carrusel, Biografía del autor, Caja de imagen)"
+
+#: inc/admin/admin.php:202
+msgid "Foodica PRO"
+msgstr "Foodica PRO"
+
+#: inc/admin/admin.php:201
+msgid "Foodica Lite"
+msgstr "Foodica Lite"
+
+#: inc/admin/admin.php:195
+msgid "Foodica Lite vs. Foodica PRO"
+msgstr "Foodica Lite vs. Foodica PRO"
+
+#: inc/admin/admin.php:185
+msgid "View Foodica PRO Demo"
+msgstr "Ver demo de Foodica PRO"
+
+#: inc/admin/admin.php:184
+msgid "http://demo.wpzoom.com/?theme=foodica"
+msgstr "http://demo.wpzoom.com/?theme=foodica"
+
+#: inc/admin/admin.php:178
+msgid "Why Upgrade?"
+msgstr "¿Por qué mejorar?"
+
+#: inc/admin/admin.php:167
+msgid "If you like the free version of this theme, you will LOVE the full version of Foodica which includes unique custom widgets, additional features and more useful options to customize your website."
+msgstr "Si te gusta la versión gratuita de este tema, te encantará la versión completa de Foodica que incluye widgets personalizados únicos, características adicionales y opciones más útiles para personalizar tu web."
+
+#: inc/admin/admin.php:164
+msgid "Foodica Pro"
+msgstr "Foodica PRO"
+
+#: inc/admin/admin.php:151
+msgid "In order to enable all theme features, it's necessary to install a few recommended plugins."
+msgstr "Para habilitar todas las funciones del tema, es necesario instalar algunos plugins recomendados."
+
+#: inc/admin/admin.php:138
+msgid "https://wordpress.org/support/theme/foodica"
+msgstr "https://wordpress.org/support/theme/foodica"
+
+#: inc/admin/admin.php:132
+msgid "Need help configuring %s? In the documentation you can find all theme related information that is needed to get your site up and running in no time."
+msgstr "¿Necesita ayuda para configurar %s? En la documentación puedes encontrar toda la información relacionada con el tema que se necesitas para poner en marcha stu sitio en un abrir y cerrar de ojos."
+
+#: inc/admin/admin.php:111
+msgid "Foodica Showcase"
+msgstr "Escaparate de Foodica"
+
+#: inc/admin/admin.php:100
+msgid "Foodica is perfect for creating food based blogs and recipe websites. A beautiful featured slider and WooCommerce integration mean Foodica is packed with features to help you stand out."
+msgstr "Foodica es perfecto para crear blogs de comida y sitios web de recetas. Un hermoso carrusel y la integración con WooCommerce significan que Foodica está repleta de características que te ayudarán a destacarte."
+
+#: inc/admin/admin.php:96
+msgid "Welcome to %1$1s %2$2s"
+msgstr "Bienvenido a %1$1s %2$2s"
+
+#: inc/admin/admin.php:75 inc/admin/admin.php:105
+msgid "About Foodica"
+msgstr "Acerca de Foodica"
+
+#: inc/admin/admin.php:75
+msgid "Welcome to Foodica Theme"
+msgstr "Bienvenido al tema Foodica"
+
+#: inc/customizer/trt-customize-pro/upgrade-pro/class-customize.php:77
+#: inc/admin/admin.php:62 inc/admin/admin.php:171 inc/admin/admin.php:311
+msgid "Upgrade to Foodica PRO"
+msgstr "Mejorar a Foodica PRO"
+
+#: inc/admin/admin.php:59 inc/admin/admin.php:122
+msgid "Get Started with %s"
+msgstr "Primeros pasos con %s"
+
+#. translators: %7$s: title of the parent post
+#: image.php:77
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>."
+msgstr "Publicado <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> en <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> en <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>."
+
+#: functions.php:258
+msgid "Choose the layout for this post:"
+msgstr "Selecciona el diseño para esta entrada:"
+
+#: inc/admin/admin.php:56
+msgid "Thanks for using %1$s! To get started please make sure you visit our %2$swelcome page%3$s."
+msgstr "¡Gracias por usar %1$s! Para empezar, asegúrate de visitar nuestra %2$spágina de bienvenida%3$s."
+
+#. translators: 1: designedby, 2: link, 3: span tag closed
+#: footer.php:66
+msgid " %1$sFoodica WordPress Theme by %2$s%3$s"
+msgstr " %1$sTema Foodica para WordPress por %2$s%3$s"
+
+#. translators: 1: poweredby, 2: link, 3: span tag closed
+#: footer.php:64
+msgid " %1$sPowered by %2$s%3$s"
+msgstr " %1$sFunciona gracias a %2$s %3$s"
+
+#: inc/admin/admin.php:181
+msgid "Upgrading to Foodica PRO you will unlock a dozen of unique features that will take your food blog to the next level. See in the table below just a few of the features included in the PRO version."
+msgstr "Actualizando a Foodica PRO desbloquearás una docena de características únicas que llevarán tu blog de comida al siguiente nivel. Vea en la siguiente tabla sólo algunas de las características incluidas en la versión PRO."
+
+#. Author of the theme
+msgid "WPZOOM"
+msgstr "WPZOOM"
+
+#. Theme URI of the theme
+msgid "https://www.wpzoom.com/free-wordpress-themes/foodica-lite/"
+msgstr "https://www.wpzoom.com/free-wordpress-themes/foodica-lite/"

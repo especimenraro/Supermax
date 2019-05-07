@@ -1,0 +1,1111 @@
+# Translation of Themes - Imagery in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Imagery package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-16 19:49:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Imagery\n"
+
+#. Description of the theme
+msgid "Imagery is a minimalist WordPress theme to build a clean modern blog or creative portfolio. This theme offers elegant image grid that can be in two or three columns, and a dark mode, and much more. This theme supports new incoming WordPress editor which called Gutenberg. This theme also offer support for some plugins that expand the Gutenberg editor's block collection. This theme offers basic support for portfolio plugins: Portfolio Post Type, Easy Photography Portfolio. Live demo - http://demo.dinevthemes.com/imagery/"
+msgstr "Imagery es un tema minimalista de WordPress para crear un blog moderno y limpio o un porfolio creativo. Este tema ofrece una elegante cuadrícula de imágenes en dos o tres columnas, y un modo oscuro, y mucho más. Este tema es compatible con el futuro nuevo editor de WordPress llamado Gutenberg. Este tema también ofrece soporte para algunas extensiones que amplían la colección de bloques del editor Gutenberg. Este tema ofrece soporte básico para las extensiones de porfolio: Portfolio Post Type, Easy Photography Portfolio. Demostración en vivo - http://demo.dinevthemes.com/imagery/"
+
+#. Theme Name of the theme
+msgid "Imagery"
+msgstr "Imagery"
+
+#: customizer/settings/site-identity.php:15
+msgid "Logo Image Size"
+msgstr "Tamaño del logo"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:72
+msgid "Continue reading%s"
+msgstr "Seguir leyendo %s"
+
+#: customizer-upsell/class-customize.php:76
+msgid "Imagery Pro"
+msgstr "Imagery Pro"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:44
+msgid "Contact Form by WPForms"
+msgstr "Contact Form de WPForms"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:54
+msgid "Atomic Blocks"
+msgstr "Atomic Blocks"
+
+#: customizer-upsell/class-customize.php:78
+msgid "Get Pro"
+msgstr "Consigue la versión Pro"
+
+#: customizer-upsell/class-customize.php:77
+msgid "Get more customization options and one-to-one support"
+msgstr "Consigue más opciones de personalización y soporte individualizado"
+
+#. Template Name of the theme
+msgid "Wide Page"
+msgstr "Página ancha"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:38
+msgid "Easy Photography Portfolio"
+msgstr "Easy Photography Portfolio"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:49
+msgid "This theme comes with basic Gutenberg editor support and also supports plugins with additional Gutenberg editor blocks:"
+msgstr "Este tema ofrece soporte básico para el editor Gutenberg y también admite extensiones de bloques adicionales para el editor Gutenberg:"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:25
+msgid "Recommended plugins"
+msgstr "Plugins recomendados"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:32
+msgid "Portfolio Post Type"
+msgstr "Tipo de contenido portfolio"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:27
+msgid "This theme offers basic support for portfolio plugins:"
+msgstr "Este tema ofrece compatibilidad básica con las siguientes extensiones:"
+
+#: customizer/controls/dropdown-list.php:151
+msgid "48px"
+msgstr "48px"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada se ajusta a tus criterios de búsqueda. Por favor, inténtalo de nuevo con palabras clave distintas."
+
+#: functions.php:101
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:102
+msgid "Social Links"
+msgstr "Redes sociales"
+
+#: customizer/config.php:22
+msgid "Site Background"
+msgstr "Fondo del sitio"
+
+#: customizer/controls/dropdown-list.php:7
+msgid "default"
+msgstr "predeterminado"
+
+#: customizer/controls/dropdown-list.php:8
+msgid "gray"
+msgstr "gris"
+
+#: customizer/controls/dropdown-list.php:9
+msgid "green"
+msgstr "verde"
+
+#: customizer/controls/dropdown-list.php:10
+msgid "red"
+msgstr "rojo"
+
+#: customizer/controls/dropdown-list.php:11
+msgid "orange"
+msgstr "Naranja"
+
+#: customizer/controls/dropdown-list.php:28
+#: customizer/controls/dropdown-list.php:42
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleccionar &mdash;"
+
+#: customizer/controls/dropdown-list.php:54
+msgid "Video"
+msgstr "Vídeo"
+
+#: customizer/controls/dropdown-list.php:55
+msgid "Audio"
+msgstr "Audio"
+
+#: customizer/controls/dropdown-list.php:56
+msgid "Image"
+msgstr "Imagen"
+
+#: customizer/controls/dropdown-list.php:122
+#: customizer/controls/dropdown-list.php:163
+msgid "12px"
+msgstr "12px"
+
+#: customizer/controls/dropdown-list.php:123
+#: customizer/controls/dropdown-list.php:164
+#: customizer/controls/dropdown-list.php:177
+msgid "14px"
+msgstr "14px"
+
+#: customizer/controls/dropdown-list.php:124
+#: customizer/controls/dropdown-list.php:165
+#: customizer/controls/dropdown-list.php:178
+msgid "16px"
+msgstr "16px"
+
+#: customizer/controls/dropdown-list.php:125
+#: customizer/controls/dropdown-list.php:138
+#: customizer/controls/dropdown-list.php:166
+#: customizer/controls/dropdown-list.php:179
+msgid "18px"
+msgstr "18px"
+
+#: customizer/controls/dropdown-list.php:126
+#: customizer/controls/dropdown-list.php:139
+#: customizer/controls/dropdown-list.php:167
+#: customizer/controls/dropdown-list.php:180
+msgid "20px"
+msgstr "20px"
+
+#: customizer/controls/dropdown-list.php:127
+#: customizer/controls/dropdown-list.php:140
+msgid "22px"
+msgstr "22px"
+
+#: customizer/controls/dropdown-list.php:128
+#: customizer/controls/dropdown-list.php:141
+msgid "24px"
+msgstr "24px"
+
+#: customizer/controls/dropdown-list.php:142
+msgid "28px"
+msgstr "28px"
+
+#: customizer/controls/dropdown-list.php:143
+msgid "30px"
+msgstr "30px"
+
+#: customizer/controls/dropdown-list.php:144
+msgid "32px"
+msgstr "32px"
+
+#: customizer/controls/dropdown-list.php:145
+msgid "34px"
+msgstr "34px"
+
+#: customizer/controls/dropdown-list.php:146
+msgid "36px"
+msgstr "36px"
+
+#: customizer/controls/dropdown-list.php:147
+msgid "38px"
+msgstr "38px"
+
+#: customizer/controls/dropdown-list.php:148
+msgid "40px"
+msgstr "40px"
+
+#: customizer/controls/dropdown-list.php:149
+msgid "42px"
+msgstr "42px"
+
+#: customizer/controls/dropdown-list.php:150
+msgid "46px"
+msgstr "46px"
+
+#: customizer/controls/dropdown-list.php:162
+msgid "10px"
+msgstr "10px"
+
+#: customizer/settings/front-page.php:45
+#: customizer/controls/helper/extra-custom-controls.php:14
+msgid "Page Content"
+msgstr "Contenido de página"
+
+#: customizer/settings/blog.php:12
+#: customizer/controls/helper/extra-custom-controls.php:15
+msgid "Blog Posts"
+msgstr "Entradas del blog"
+
+#: customizer/settings/portfolio.php:12
+#: customizer/controls/helper/extra-custom-controls.php:16
+msgid "Portfolio Posts"
+msgstr "Entradas del porfolio"
+
+#: customizer/controls/helper/extra-custom-controls.php:63
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: customizer/controls/helper/extra-custom-controls.php:64
+msgid "Title"
+msgstr "Título"
+
+#: customizer/controls/helper/extra-custom-controls.php:65
+msgid "Meta"
+msgstr "Meta"
+
+#: customizer/controls/helper/extra-custom-controls.php:66
+msgid "Content"
+msgstr "Contenido"
+
+#: customizer/controls/helper/extra-custom-controls.php:67
+msgid "Read More"
+msgstr "Más información"
+
+#: customizer/settings/blog.php:25
+msgid "Posts page Title"
+msgstr "Título de la página de entradas"
+
+#: customizer/settings/blog.php:35
+msgid "Posts page Description"
+msgstr "Descripción de la página de entradas"
+
+#: customizer/settings/blog.php:47
+msgid "Home Posts Grid"
+msgstr "Cuadrícula de entradas de la portada"
+
+#: customizer/settings/portfolio.php:49 customizer/settings/blog.php:49
+#: customizer/settings/blog.php:62 customizer/settings/front-page.php:121
+#: customizer/settings/front-page.php:181
+msgid "2 Columns"
+msgstr "2 columnas"
+
+#: customizer/settings/portfolio.php:50 customizer/settings/blog.php:50
+#: customizer/settings/blog.php:63 customizer/settings/front-page.php:122
+#: customizer/settings/front-page.php:182
+msgid "3 Columns"
+msgstr "3 columnas"
+
+#: customizer/settings/blog.php:60
+msgid "Archive Posts Grid"
+msgstr "Cuadrícula de archivo de entradas"
+
+#: customizer/settings/portfolio.php:59 customizer/settings/blog.php:72
+msgid "Yes"
+msgstr "Sí"
+
+#: customizer/settings/portfolio.php:60 customizer/settings/blog.php:73
+msgid "No"
+msgstr "No"
+
+#: customizer/settings/colors.php:15
+msgid "Dark Mode"
+msgstr "Modo oscuro"
+
+#: customizer/settings/colors.php:25
+msgid "Primary color"
+msgstr "Color primario"
+
+#: customizer/settings/colors.php:26
+msgid "Applies to most design elements, body text, and headings."
+msgstr "Se aplica a la mayoría de elementos de diseño, texto y encabezados."
+
+#: customizer/settings/colors.php:47
+msgid "Link text color"
+msgstr "Color de los enlaces"
+
+#: customizer/settings/colors.php:68
+msgid "Link text color on hover"
+msgstr "Color de los enlaces al pasar el ratón"
+
+#: customizer/settings/colors.php:89
+msgid "Meta text color"
+msgstr "Color del texto meta"
+
+#: customizer/settings/colors.php:90
+msgid "Is applied to the to the secondary design elements, and meta text about the publication, such as date, author, etc.."
+msgstr "Se aplica a los elementos de diseño secundarios y al meta texto sobre la publicación, como la fecha, el autor, etc."
+
+#: customizer/settings/colors.php:107
+msgid "Buttons color"
+msgstr "Color de los botones"
+
+#: customizer/settings/colors.php:132
+msgid "Button color on hover"
+msgstr "Color del botón al pasar el ratón"
+
+#: customizer/settings/colors.php:149
+msgid "Additional Color"
+msgstr "Color adicional"
+
+#: customizer/settings/colors.php:150
+msgid "Applies to the fill color of some design elements."
+msgstr "Se aplica al color de relleno de algunos elementos de diseño."
+
+#: customizer/settings/fonts.php:12
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: customizer/settings/fonts.php:23
+msgid "General font which is used in the body of the site. Default: Roboto"
+msgstr "Fuente general que se usa en el cuerpo del sitio. Predeterminada: Roboto"
+
+#: customizer/settings/fonts.php:31 customizer/settings/fonts.php:132
+#: customizer/settings/fonts.php:226 customizer/settings/fonts.php:328
+msgid "Google Font Name"
+msgstr "Nombre de la fuente de Google"
+
+#: customizer/settings/fonts.php:32 customizer/settings/fonts.php:133
+#: customizer/settings/fonts.php:227 customizer/settings/fonts.php:329
+msgid "Choose a font name. Default: Roboto"
+msgstr "Elige un nombre de fuente. Predeterminada: Roboto"
+
+#: customizer/settings/fonts.php:44 customizer/settings/fonts.php:108
+#: customizer/settings/fonts.php:253 customizer/settings/fonts.php:278
+#: customizer/settings/fonts.php:303 customizer/settings/fonts.php:355
+#: customizer/settings/fonts.php:394
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: customizer/settings/fonts.php:45 customizer/settings/fonts.php:109
+#: customizer/settings/fonts.php:202 customizer/settings/fonts.php:356
+#: customizer/settings/fonts.php:395
+msgid "Set font-size. Default: 18px"
+msgstr "Establecer tamaño de letra. Predeterminado: 18px"
+
+#: customizer/settings/fonts.php:60
+msgid "Site Title & Tagline"
+msgstr "Título y descripción corta del sitio"
+
+#: customizer/settings/fonts.php:69
+msgid "Font Size for Site Title"
+msgstr "Tamaño de fuente para el título del sitio"
+
+#: customizer/settings/fonts.php:83
+msgid "Font Size for Tagline"
+msgstr "Tamaño de fuente para la descripción corta"
+
+#: customizer/settings/fonts.php:99
+#: template-parts/navigation/nav-bar-default.php:13
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: customizer/settings/fonts.php:100
+msgid "Used for main menu."
+msgstr "Usado en el menú principal."
+
+#: customizer/settings/fonts.php:124
+msgid "Headings"
+msgstr "Encabezados"
+
+#: customizer/settings/fonts.php:145 customizer/settings/fonts.php:239
+#: customizer/settings/fonts.php:341
+msgid "Font Weight"
+msgstr "Grosor de fuente"
+
+#: customizer/settings/fonts.php:146
+msgid "Set font-weight. Default: 900/Ultra Bold. Important: Not all fonts support every font-weight."
+msgstr "Establecer grosor de la fuente. Predeterminado: 900/Ultra Bold. Importante: No todas las fuentes soportan cualquier grosor."
+
+#: customizer/settings/fonts.php:159
+msgid "H1 Font Size"
+msgstr "Tamaño de fuente del encabezado H1"
+
+#: customizer/settings/fonts.php:160 customizer/settings/fonts.php:254
+#: customizer/settings/fonts.php:279
+msgid "Set font-size. Default: 40px"
+msgstr "Establecer tamaño de letra. Predeterminado: 40px"
+
+#: customizer/settings/fonts.php:173
+msgid "H2 Font Size"
+msgstr "Tamaño de fuente del encabezado H2"
+
+#: customizer/settings/fonts.php:174
+msgid "Set font-size. Default: 32px"
+msgstr "Establecer tamaño de letra. Predeterminado: 32px"
+
+#: customizer/settings/fonts.php:187
+msgid "H3 Font Size"
+msgstr "Tamaño de fuente del encabezado H3"
+
+#: customizer/settings/fonts.php:188
+msgid "Set font-size. Default: 24px"
+msgstr "Establecer tamaño de letra. Predeterminado: 24px"
+
+#: customizer/settings/fonts.php:201
+msgid "H4 Font Size"
+msgstr "Tamaño de fuente del encabezado H4"
+
+#: customizer/settings/fonts.php:217
+msgid "Post Preview Heading"
+msgstr "Encabezado previo de las entradas"
+
+#: customizer/settings/fonts.php:269
+msgid "Page Title"
+msgstr "Título de página"
+
+#: customizer/settings/fonts.php:270
+msgid "Used for title of the single post/page."
+msgstr "Usado en el título de una entrada/página."
+
+#: customizer/settings/fonts.php:294
+msgid "Page Title Subheading"
+msgstr "Subtítulo de la página"
+
+#: customizer/settings/fonts.php:295
+msgid "Used for page/post title subheading (as an excerpt)."
+msgstr "Usado en el subtítulo de páginas y entradas (como un extracto)."
+
+#: customizer/settings/fonts.php:304
+msgid "Set font-size. Default: 20px"
+msgstr "Establecer tamaño de letra. Predeterminado: 20px"
+
+#: customizer/settings/fonts.php:319
+msgid "Paragraph"
+msgstr "Párrafo"
+
+#: customizer/settings/fonts.php:320
+msgid "Used for content text, tables, and lists."
+msgstr "Usado en el contenido, las tablas y las listas."
+
+#: customizer/settings/fonts.php:369
+msgid "Line Height"
+msgstr "Altura de línea"
+
+#: customizer/settings/fonts.php:370
+msgid "Set line-height. Default: 1.75"
+msgstr "Ajustar altura de la línea. Predeterminada: 1.75"
+
+#: customizer/settings/fonts.php:385
+msgid "Post meta"
+msgstr "Metadatos de las entradas"
+
+#: customizer/settings/fonts.php:386
+msgid "Used for meta-text of the single post: author, date, categories etc."
+msgstr "Usado en el meta-texto de una entrada: autor, fecha, categorías, etc."
+
+#: customizer/settings/front-page.php:12
+msgid "Front Page Sections"
+msgstr "Secciones de la portada"
+
+#: customizer/settings/front-page.php:23
+msgid "Visibility & Sorting"
+msgstr "Visibilidad y orden"
+
+#: customizer/settings/front-page.php:32
+msgid "Set the visibility and order of the sections."
+msgstr "Establecer la visibilidad y el orden de las secciones."
+
+#: customizer/settings/front-page.php:33
+msgid "Drag and drop to sort sections of the front page. To show or hide the section by clicking on the eye icon."
+msgstr "Arrastrar y soltar para ordenar las secciones de la portada. Para mostrar u ocultar la sección haz clic en el icono de ojo."
+
+#: customizer/settings/front-page.php:71 customizer/settings/front-page.php:130
+#: customizer/settings/front-page.php:190
+msgid "Margin bottom (px)"
+msgstr "Margen inferior (px)"
+
+#: customizer/settings/front-page.php:72 customizer/settings/front-page.php:131
+#: customizer/settings/front-page.php:191
+msgid "Set the height of white space at the bottom after the section."
+msgstr "Ajustar la altura de espacio en blanco de la parte inferior después de la sección."
+
+#: customizer/settings/front-page.php:89
+msgid "Blog Section"
+msgstr "Sección de blog"
+
+#: customizer/settings/front-page.php:101
+#: customizer/settings/front-page.php:161
+msgid "Posts Number"
+msgstr "Número de entradas"
+
+#: customizer/settings/portfolio.php:47 customizer/settings/front-page.php:118
+#: customizer/settings/front-page.php:178
+msgid "Grid Columns"
+msgstr "Columnas de la cuadrícula"
+
+#: customizer/settings/front-page.php:148
+msgid "Portfolio Section"
+msgstr "Sección de porfolio"
+
+#: customizer/settings/front-page.php:149
+msgid "The use of these options requires the activation of the plugin named Portfolio Post Type by Devin Price."
+msgstr "El uso de estas opciones requiere la activación de la extensión Portfolio Post Type de Devin Price."
+
+#: customizer/settings/menu-bar.php:12
+msgid "Menu Bar"
+msgstr "Barra de menú"
+
+#: customizer/settings/menu-bar.php:23
+msgid "Add search icon"
+msgstr "Añadir icono de búsqueda"
+
+#: customizer/settings/portfolio.php:13
+msgid "If you have enabled the portfolio plugin and you have portfolio posts, then you can set options here for displaying portfolio posts."
+msgstr "Si has activado la extensión de porfolio y tienes entradas de porfolio, aquí puedes ajustar opciones para la visualización de entradas de porfolio."
+
+#: customizer/settings/portfolio.php:25
+msgid "Portfolio page Title"
+msgstr "Título de la página de porfolio"
+
+#: customizer/settings/portfolio.php:26
+msgid "My Portfolio"
+msgstr "Mi Porfolio"
+
+#: customizer/settings/portfolio.php:35
+msgid "Portfolio page Description"
+msgstr "Descripción de la página de porfolio"
+
+#: customizer/settings/site-identity.php:31
+msgid "Hide Site Title"
+msgstr "Ocultar título del sitio"
+
+#: customizer/settings/site-identity.php:46
+msgid "Hide Tagline"
+msgstr "Ocultar lema"
+
+#: customizer/settings/site-media.php:12
+msgid "Site Header"
+msgstr "Cabecera del sitio"
+
+#: customizer/settings/site-media.php:13
+msgid "You can configure options to show media content in the header."
+msgstr "Puedes configurar opciones para mostrar contenido multimedia en la cabecera."
+
+#: customizer/settings/site-media.php:24
+msgid "Header Options"
+msgstr "Opciones de encabezado"
+
+#: customizer/settings/site-media.php:35
+msgid "Show on front page only"
+msgstr "Mostrar sólo en la portada"
+
+#: customizer/settings/site-media.php:42
+msgid "Check the box if you want a header media content to show on the front page only."
+msgstr "Marca la casilla si quieres mostrar un encabezado multimedia sólo en la portada."
+
+#: customizer/settings/site-media.php:55
+msgid "Where to show?"
+msgstr "¿Dónde mostrar?"
+
+#: customizer/settings/site-media.php:57
+msgid "Above the main menu"
+msgstr "Sobre el menú principal"
+
+#: customizer/settings/site-media.php:58
+msgid "Under the main menu"
+msgstr "Bajo el menú principal"
+
+#: customizer/settings/site-media.php:68
+msgid "The way to show"
+msgstr "La manera de mostrar"
+
+#: customizer/settings/site-media.php:70
+msgid "Wide"
+msgstr "Ancho"
+
+#: customizer/settings/site-media.php:71
+msgid "Boxed"
+msgstr "En caja"
+
+#: inc/back-compat.php:30 inc/back-compat.php:39 inc/back-compat.php:51
+msgid "Imagery requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Imagery requiere al menos la versión 4.7 de WordPress. Estás usando la versión %s. Por favor actualiza e inténtalo de nuevo."
+
+#: inc/icon-functions.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr "Por favor, define los parámetros predeterminados en forma de array."
+
+#: inc/icon-functions.php:43
+msgid "Please define an SVG icon filename."
+msgstr "Por favor, especifica un nombre de fichero SVG."
+
+#: inc/template-functions.php:229
+msgid "Archives"
+msgstr "Archivos"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr "Publicado el %1$s"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-front-page.php:57
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/admin/imagery-welcome-screen.php:74
+msgid "Imagery Dashboard"
+msgstr "Escritorio de Imagery"
+
+#. translators: %1$s and %2$s are placeholders that will be replaced by
+#. variables passed as an argument.
+#: inc/admin/imagery-welcome-screen.php:103
+msgid "Welcome and thanks for choosing %1$s! To help you get starter with the theme, please visit our <a href=\"%2$s\">welcome page</a>."
+msgstr "¡Bienvenido y gracias por elegir %1$s! Para ayudarte a empezar con el tema, por favor visita nuestra <a href=\"%2$s\">página de bienvenida</a>."
+
+#: inc/admin/imagery-welcome-screen.php:144
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/admin/imagery-welcome-screen.php:148
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/admin/imagery-welcome-screen.php:152
+msgid "Contribute"
+msgstr "Contribuir"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:101
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:97
+#: inc/admin/partials/theme-dashboard-sidebar.php:23
+msgid "Get Premium"
+msgstr "Consigue la versión premium"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:105
+msgid "View Demo"
+msgstr "Ver demo"
+
+#: inc/admin/partials/theme-dashboard-page.php:14
+msgid "Version:"
+msgstr "Versión:"
+
+#: inc/admin/partials/theme-dashboard-support.php:4
+msgid "forum"
+msgstr "foro"
+
+#: inc/admin/partials/theme-dashboard-support.php:5
+msgid "Imagery forum"
+msgstr "Foro de Imagery"
+
+#: inc/admin/partials/theme-dashboard-support.php:6
+msgid "documentation"
+msgstr "documentación"
+
+#. translators: %s is a placeholders that will be replaced by variables passed
+#. as an argument.
+#: inc/admin/partials/theme-dashboard-support.php:41
+msgid "If this theme is useful to you then leave your %s, please. Thank you!"
+msgstr "Si este tema te resulta útil, deja tu %s, por favor. ¡Gracias!"
+
+#: template-parts/content-attachment.php:94
+msgid "Download Full size"
+msgstr "Descargar en tamaño completo"
+
+#: template-parts/content.php:77 template-parts/content-wide-page.php:36
+#: template-parts/content-front-page.php:43
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: search query.
+#: template-parts/content-header.php:61
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/footer-credits.php:14
+msgid "theme by"
+msgstr "tema por"
+
+#: template-parts/footer-social-links.php:11
+msgid "Social Links Menu"
+msgstr "Menú de redes sociales"
+
+#: template-parts/navigation/nav-bar-default.php:16
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: template-parts/navigation/single-nav.php:15
+#: template-parts/navigation/pagination.php:18
+msgid "Previous"
+msgstr "Anterior"
+
+#: template-parts/navigation/single-nav.php:12
+#: template-parts/navigation/pagination.php:19
+msgid "Next"
+msgstr "Siguiente"
+
+#: template-parts/navigation/pagination.php:22
+msgid "Posts navigation"
+msgstr "Navegación de entradas"
+
+#: template-parts/navigation/single-nav.php:13
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: template-parts/navigation/single-nav.php:16
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#. translators: Theme CMS name.
+#: template-parts/footer-credits.php:11
+msgid "WordPress"
+msgstr "WordPress"
+
+#: template-parts/content-preview.php:30 template-parts/content-search.php:19
+msgid "Untitled"
+msgstr "Sin título"
+
+#. translators: Theme developer name.
+#: template-parts/footer-credits.php:18
+msgid "DinevThemes"
+msgstr "DinevThemes"
+
+#: inc/template-functions.php:223
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imágenes"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/content-attachment.php:51
+msgid "Dimensions:"
+msgstr "Dimensiones:"
+
+#: template-parts/content-attachment.php:56
+msgid "Camera:"
+msgstr "Cámara:"
+
+#: template-parts/content-attachment.php:61
+msgid "Focal length:"
+msgstr "Distancia focal:"
+
+#: template-parts/content-attachment.php:66
+msgid "Aperture:"
+msgstr "Apertura:"
+
+#: template-parts/content-attachment.php:71
+msgid "ISO:"
+msgstr "ISO:"
+
+#: template-parts/content-attachment.php:76
+msgid "Shutter speed:"
+msgstr "Velocidad de obturación:"
+
+#: template-parts/content-header.php:74
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: inc/admin/partials/theme-dashboard-contribute.php:28
+msgid "Write"
+msgstr "Escribir"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:82
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:86
+msgid "Customize Theme"
+msgstr "Personalizar tema"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:90
+msgid "Demo Website"
+msgstr "Web de demostración"
+
+#: inc/admin/partials/theme-dashboard-page.php:13
+msgid "Welcome to Imagery!"
+msgstr "¡Bienvenido/a a Imagery!"
+
+#: inc/admin/partials/theme-dashboard-support.php:11
+msgid "Looking for help?"
+msgstr "¿Necesitas ayuda?"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/admin/partials/theme-dashboard-contribute.php:11
+msgid "Share"
+msgstr "Compartir"
+
+#: inc/admin/partials/theme-dashboard-contribute.php:7
+msgid "Do you like the theme? I would love your help. There are ways in which you can help:"
+msgstr "¿Te gusta el tema? Valoraría tu ayuda. Hay distintas maneras en que puedes ayudar:"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario en &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: inc/admin/partials/theme-dashboard-sidebar.php:16
+msgid "Get Much More"
+msgstr "Consigue mucho más"
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:73
+msgid "Front Page Setup"
+msgstr "Configuración de la portada"
+
+#: inc/admin/partials/theme-dashboard-contribute.php:13
+msgid "Do you have Instagram, Facebook, Twitter or any other social profile? It would be great if you could share Imagery with anyone you know."
+msgstr "¿Tienes cuenta en Instagram, Facebook, Twitter u otra red social? Estaría muy bien que compartieras Imagery con tus amigos."
+
+#: customizer/settings/site-media.php:25
+msgid "Additional settings for the display of header media."
+msgstr "Configuración adicional para la visualización de encabezados multimedia."
+
+#. translators: %1$s and %2$s are placeholders that will be replaced by
+#. variables passed as an argument.
+#: inc/admin/imagery-welcome-screen.php:115
+msgid "Did you know that there's a Premium version of %1$s with more great features? <a href=\"%2$s\">Click here to learn more</a> about %1$s Premium"
+msgstr "¿Sabías que existe una versión Premium de %1$s con más funcionalidades? <a href=\"%2$s\">Haz clic aquí para obtener más información</a> sobre %1$s Premium"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esta página no se encuentra."
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en este lugar. ¿Y si pruebas una búsqueda?"
+
+#: template-parts/content-preview.php:23
+msgid "Sticky"
+msgstr "Fijo"
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: inc/admin/partials/theme-dashboard-sidebar.php:18
+msgid "More features and one-on-one support you will get with the premium version of the theme."
+msgstr "Conseguirás más funcionalidades y soporte individualizado con la versión premium del tema."
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:92
+msgid "You can recreate the demo website. All you need is following short instructions from theme docs. Please note, a file for importing demo-content may be offered only premium users."
+msgstr "Puedes recrear el sitio web de demostración. Únicamente tienes que seguir unas cortas instrucciones de la documentación del tema. Ten en cuenta que un fichero para importar contenido de demostración puede ofrecerse solo a usuarios premium."
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:84
+msgid "You can use of the Customizer to provide you with the theme options. Press the button below to open the Customizer and start making changes."
+msgstr "Puedes usar el Personalizador para acceder a las opciones de tema. Pulsa el botón de abajo para abrir el Personalizador y comenzar a hacer cambios."
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:76
+msgid "In the same way create a blank page for the Blog Page."
+msgstr "De la misma manera, crea una página en blanco para la página del blog."
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:77
+msgid "Now you can go to Appearance > Customize > Static Front Page and choose your new created Page as your Front Page."
+msgstr "Ahora puedes ir a Apariencia > Personalizar > Portada estática y especificar la página que acabas de crear como tu portada."
+
+#: inc/admin/partials/theme-dashboard-getting-started.php:75
+msgid "Create a new by going to Pages > Add New. Give your page a name (Title field)."
+msgstr "Crea una nueva página yendo a Páginas > Añadir nueva. Da un nombre a tu página (campo de título)."
+
+#: inc/admin/partials/theme-dashboard-contribute.php:29
+msgid "Do you like to blog? We would be very happy if you could write a blog post about WordPress blog themes and mention Imagery theme."
+msgstr "¿Te gusta bloguear? Nos encantaría que escribieras una entrada en tu blog sobre temas de WordPress y mencionaras el tema Imagery."
+
+#: inc/admin/partials/theme-dashboard-contribute.php:17
+msgid "Rate"
+msgstr "Puntuar"
+
+#: inc/admin/partials/theme-dashboard-support.php:13
+msgid "Is here collected some resources that you may find helpful:"
+msgstr "Aquí tienes algunos recursos que pueden serte de utilidad:"
+
+#: template-parts/content-attachment.php:84
+msgid "Time Stamp:"
+msgstr "Fecha de captura:"
+
+#: customizer/settings/fonts.php:61
+msgid "Font size that used for Site Title and Tagline (look at the section called Site Identity)."
+msgstr "Tamaño de fuente usado para el título del sitio y la descripción corta (consulta la sección llamada Identidad del sitio)."
+
+#: customizer/settings/fonts.php:70
+msgid "Font size that used for Site Title. Default: 22px"
+msgstr "Tamaño de fuente usado para el título del sitio. Predeterminado: 22px"
+
+#: customizer/settings/fonts.php:84
+msgid "Font size that used for Site Tagline. Default: 18px"
+msgstr "Tamaño de fuente usado para la descripción corta. Predeterminado: 18px"
+
+#: inc/admin/partials/theme-dashboard-support.php:7
+#: inc/admin/partials/theme-dashboard-contribute.php:3
+msgid "review"
+msgstr "reseña"
+
+#. translators: %s is a placeholder that will be replaced by a variable passed
+#. as an argument.
+#: inc/admin/partials/theme-dashboard-support.php:19
+msgid "If you have a general question related to WordPress, please post it on WordPress.org %s."
+msgstr "Si tienes una pregunta general relacionada con WordPress, por favor, publícala en el %s de WordPress.org."
+
+#. translators: %s is a placeholder that will be replaced by a variable passed
+#. as an argument.
+#: inc/admin/partials/theme-dashboard-support.php:26
+msgid "If you have a theme specific question, please post it on %s."
+msgstr "Si tienes una pregunta específica sobre el tema, por favor, publícala en el %s."
+
+#. translators: %s is a placeholders that will be replaced by variables passed
+#. as an argument.
+#: inc/admin/partials/theme-dashboard-support.php:33
+msgid "Before panic, please visit our %s pages."
+msgstr "Antes de ponerte nervioso, por favor, visita nuestras páginas de %s."
+
+#: customizer/settings/front-page.php:13
+msgid "As the front page should be assigned a static page with default template."
+msgstr "La portada debe tener asignada una página estática con la plantilla predeterminada."
+
+#. translators: %s is a placeholders that will be replaced by variables passed
+#. as an argument.
+#: inc/admin/partials/theme-dashboard-contribute.php:22
+msgid "I will appreciate if you find a few minutes and leave a five stars %s. It is important for me, as we see it as a feedback and support from you."
+msgstr "Si tienes un momento, agradecería que dejaras una %s de cinco estrellas. Esto es muy importante para mí, ya que lo considero como feedback y apoyo de ti."
+
+#: customizer/controls/dropdown-list.php:12
+msgid "hollow"
+msgstr "pálido"
+
+#: customizer/controls/dropdown-list.php:13
+msgid "gray hollow"
+msgstr "gris pálido"
+
+#: customizer/controls/dropdown-list.php:14
+msgid "green hollow"
+msgstr "verde pálido"
+
+#: customizer/controls/dropdown-list.php:15
+msgid "red hollow"
+msgstr "rojo pálido"
+
+#: customizer/controls/dropdown-list.php:16
+msgid "orange hollow"
+msgstr "naranja pálido"
+
+#: customizer/settings/blog.php:13
+msgid "Here the view of posts options at the home / archives blog page."
+msgstr "Éstas son las opciones de visualización de entradas en la portada / página de archivo del blog."
+
+#: customizer/settings/portfolio.php:62 customizer/settings/blog.php:75
+msgid "Show titles of posts preview"
+msgstr "Mostrar títulos en las miniaturas de las entradas"
+
+#: customizer/settings/fonts.php:218
+msgid "Heading for Post Preview that used for post titles on the blog page."
+msgstr "Encabezado de las miniaturas usado para los títulos de las entradas en la página del blog."
+
+#. translators: %s: Name of current post
+#: functions.php:300
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo <span class=\"screen-reader-text\">\"%s\"</span>"
+
+#: customizer/config.php:24
+msgid "Header Media"
+msgstr "Medios de la cabecera"
+
+#: customizer/controls/dropdown-list.php:104
+msgid "Ultra Light"
+msgstr "Ultra Light"
+
+#: customizer/controls/dropdown-list.php:105
+msgid "Light"
+msgstr "Light"
+
+#: customizer/controls/dropdown-list.php:106
+msgid "Book"
+msgstr "Book"
+
+#: customizer/controls/dropdown-list.php:107
+msgid "Regular"
+msgstr "Regular"
+
+#: customizer/controls/dropdown-list.php:108
+msgid "Medium"
+msgstr "Medium"
+
+#: customizer/controls/dropdown-list.php:109
+msgid "Semi-Bold"
+msgstr "Semi-Bold"
+
+#: customizer/controls/dropdown-list.php:110
+msgid "Bold"
+msgstr "Bold"
+
+#: customizer/controls/dropdown-list.php:111
+msgid "Extra Bold"
+msgstr "Extra Bold"
+
+#: customizer/controls/dropdown-list.php:112
+msgid "Ultra Bold"
+msgstr "Ultra Bold"
+
+#: customizer/controls/dropdown-list.php:152
+msgid "50px"
+msgstr "50px"
+
+#: customizer/settings/fonts.php:22
+msgid "General Font"
+msgstr "Fuente general"
+
+#: customizer/settings/fonts.php:240
+msgid "Set font-weight. Default: 300/Book. Important: Not all fonts support every font-weight."
+msgstr "Establecer grosor de la fuente. Predeterminado: 300/Book. Importante: No todas las fuentes son compatibles con cualquier grosor."
+
+#: customizer/settings/fonts.php:342
+msgid "Set font-weight. Default: 400/Regular. Important: Not all fonts support every font-weight."
+msgstr "Establecer grosor de la fuente. Predeterminado: 400/Regular. Importante: No todas las fuentes son compatibles con cualquier grosor."
+
+#: customizer/settings/front-page.php:55
+msgid "Hide Page Header"
+msgstr "Ocultar cabecera de página"
+
+#: customizer/controls/dropdown-list.php:67
+msgid "Metro Box"
+msgstr "Metro Box"
+
+#: customizer/controls/dropdown-list.php:66
+msgid "Post Boxed"
+msgstr "Post Boxed"
+
+#. Theme URI of the theme
+msgid "http://dinevthemes.com/themes/imagery-pro/"
+msgstr "http://dinevthemes.com/themes/imagery-pro/"
+
+#. Author of the theme
+msgid "Dmitry Dinev"
+msgstr "Dmitry Dinev"
+
+#. Author URI of the theme
+msgid "http://www.dinevthemes.com/"
+msgstr "http://www.dinevthemes.com/"

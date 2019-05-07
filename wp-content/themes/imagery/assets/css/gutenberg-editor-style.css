@@ -1,0 +1,175 @@
+/*
+Theme Name: Imagery
+Description: Used to style the Gutenberg editor.
+*/
+
+.edit-post-visual-editor,
+.edit-post-visual-editor p,
+.editor-visual-editor,
+.editor-visual-editor p {
+	font-family: 'Roboto', sans-serif;
+    	font-size: 18px;
+}
+
+.editor-post-title__input,
+.editor-post-title textarea.editor-post-title__input,
+.editor-block-list__block[data-type="core/heading"] h1,
+.editor-block-list__block[data-type="core/heading"] h2,
+.editor-block-list__block[data-type="core/heading"] h3,
+.editor-block-list__block[data-type="core/heading"] h4,
+.editor-block-list__block[data-type="core/heading"] h5,
+.editor-block-list__block[data-type="core/heading"] h6 {
+	clear: both;
+	line-height: 1.4;
+	margin: 0 0 0.75em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	color: rgba(0, 0, 0, 0.85);
+}
+
+.editor-post-title textarea.editor-post-title__input,
+.editor-post-title__input,
+.editor-block-list__block[data-type="core/heading"] h1 {
+	font-size: 40px;
+}
+
+.editor-block-list__block[data-type="core/heading"] h2 {
+	font-size: 32px;
+}
+
+.editor-block-list__block[data-type="core/heading"] h3 {
+	font-size: 24px;
+}
+
+.editor-block-list__block[data-type="core/heading"] h4 {
+	font-size: 18px;
+}
+
+.editor-block-list__block[data-type="core/heading"] h5 {
+	font-size: 16px;
+}
+
+.editor-block-list__block[data-type="core/heading"] h6 {
+	font-size: 14px;
+}
+
+p {
+	margin: 0 0 1.5em;
+	padding: 0;
+}
+
+.aligncenter .blocks-rich-text {
+    	text-align: center;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+blockquote {
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	quotes: "" "";
+}
+
+blockquote:before,
+blockquote:after {
+	content: '';
+}
+
+blockquote cite {
+	display: block;
+	margin-top: 0.5em;
+}
+
+q {
+	text-align: center;
+	font-size: 29px;
+	font-weight: 700;
+}
+
+address {
+    margin: 0 0 1.5em;
+    line-height: 1.5;
+	font-weight: 300;
+}
+
+pre {
+	background: #eee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 16px;
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 18px;
+	font-size: 1.12rem;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+
+mark,
+ins {
+	background: #eee;
+	text-decoration: none;
+}
+
+big {
+	font-size: 120%;
+}
+
+em {
+    font-style: italic;
+}
+
+hr {
+	border: none;
+	border-top: 1px solid rgba( 0, 0, 0, 0.13 );
+	margin: 50px 0;
+}
+
+.wp-block-button .wp-block-button__link,
+.blocks-editable .wp-block-button__link {
+	color: rgba(0, 0, 0, 0.85);
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-size: 0.9375rem;
+	line-height: 1;
+	height: unset;
+	background-color: #222;
+	border: 0;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	padding: 0.75em 2em;
+	text-shadow: none;
+	-webkit-transition: background 0.2s;
+	transition: background 0.2s;
+}
+
+.is-style-default .wp-block-button__link {
+    border-radius: 23px;
+}
+
+.wp-block-image figcaption {}

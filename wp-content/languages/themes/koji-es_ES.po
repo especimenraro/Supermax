@@ -1,0 +1,491 @@
+# Translation of Themes - Koji in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Koji package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-07 20:46:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Koji\n"
+
+#. Theme Name of the theme
+msgid "Koji"
+msgstr "Koji"
+
+#. Description of the theme
+msgid "Koji is a clean and lightweight theme for bloggers. It features a masonry grid on the archive pages, a beautiful and minimal design, Block Editor/Gutenberg support, widget areas in the sidebar and the footer, infinite scroll loading that can be set to load more posts on button click or when the visitor reaches the bottom of the page, settings for what post meta to display on archive pages and on single posts, icon links to social media pages, custom logo support, a search overlay that can be accessed from any page, and much more. Demo: https://www.andersnoren.se/themes/koji/"
+msgstr "Koji es un tema limpio y ligero para los bloggers. Cuenta con una cuadrícula irregular en las páginas de archivo, un diseño bonito y minimalista compatible con Gutenberg, carga de desplazamiento infinito que puede configurarse para cargar más entradas al hacer clic en el botón o cuando el visitante llega a la parte inferior de la página, configuración de qué meta de entrada mostrar en las páginas de archivo y en las entradas individuales, enlaces de iconos a páginas de medios sociales, permite logotipos personalizados, una sobreimpresión de búsqueda a la que se puede acceder desde cualquier página, y mucho más. Demo: https://www.andersnoren.se/themes/koji/"
+
+#: header.php:226
+msgid "Hide the search overlay"
+msgstr "Ocultar la búsqueda superpuesta"
+
+#: header.php:118 header.php:197
+msgid "Toggle the search field"
+msgstr "Alternar el campo de búsqueda"
+
+#: header.php:34
+msgid "Skip to the main menu"
+msgstr "Saltar al menú principal"
+
+#: header.php:33
+msgid "Skip to the content"
+msgstr "Saltar al contenido"
+
+#: functions.php:750
+msgid "Post author"
+msgstr "Autor de la publicación"
+
+#: functions.php:450
+msgid "Fallback image"
+msgstr "Imagen alternativa"
+
+#: content.php:70
+msgid "Next post:"
+msgstr "Siguiente publicación:"
+
+#: content.php:58
+msgid "Previous post:"
+msgstr "Publicación anterior:"
+
+#: functions.php:273
+msgid "Widgets in this area will be shown below the main menu."
+msgstr "Los widgets de este área se mostrarán debajo del menú principal."
+
+#: functions.php:271
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:303
+msgid "Widgets in this area will be shown in the third footer column."
+msgstr "Los widgets de este área se mostrarán en la tercera columna del pie de página."
+
+#: functions.php:301
+msgid "Footer #3"
+msgstr "Pie de página #3"
+
+#: functions.php:293
+msgid "Widgets in this area will be shown in the second footer column."
+msgstr "Los widgets de este área se mostrarán en la segunda columna del pie de página."
+
+#: functions.php:291
+msgid "Footer #2"
+msgstr "Pie de página #2"
+
+#: functions.php:283
+msgid "Widgets in this area will be shown in the first footer column."
+msgstr "Los widgets de este área se mostrarán en la primera columna del pie de página."
+
+#: functions.php:281
+msgid "Footer #1"
+msgstr "Pie de página #1"
+
+#: functions.php:866
+msgid "Checking this will decrease load times, but also make images look less sharp on high-resolution screens."
+msgstr "Marcando esto se reducirá el tiempo de carga, pero también hará que las imágenes se vean menos definidas en pantallas de alta resolución."
+
+#: functions.php:865
+msgid "Use Low-Resolution Images"
+msgstr "Utilizar imágenes de baja resolución"
+
+#: functions.php:852
+msgid "Settings for images in Koji."
+msgstr "Ajustes para imágenes en Koji."
+
+#: functions.php:849
+msgid "Images"
+msgstr "Imágenes"
+
+#: functions.php:1025
+msgid "Disable Related Posts"
+msgstr "Deshabilitar las entradas relacionadas"
+
+#: functions.php:1026
+msgid "Check to hide the related posts section on single posts."
+msgstr "Marca esta opción para ocultar la sección de entradas relacionados en entradas individuales."
+
+#: functions.php:999
+msgid "Disable Search Toggle"
+msgstr "Desactivar conmutador de búsqueda"
+
+#: functions.php:893
+msgid "Disable Fallback Image"
+msgstr "Desactivar imagen de sustitución"
+
+#: searchform.php:9
+msgctxt "Submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:8
+msgctxt "Placeholder"
+msgid "Enter your search query"
+msgstr "Introduce tu búsqueda"
+
+#: functions.php:1008 related-posts.php:63
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#: pagination.php:67
+msgid "Next Page &rarr;"
+msgstr "Siguiente página &rarr;"
+
+#: pagination.php:63
+msgid "&larr; Previous Page"
+msgstr "&larr; Página anterior"
+
+#: pagination.php:39
+msgid "Nothing more to load."
+msgstr "No hay nada más para cargar."
+
+#: pagination.php:37
+msgid "Load more"
+msgstr "Cargar más"
+
+#. Translators: %s = the number of results
+#: index.php:30
+msgctxt "%s = number of results"
+msgid "Found %s result matching your search."
+msgid_plural "Found %s results matching your search."
+msgstr[0] "Encontrado %s resultado que coincide con tu búsqueda."
+msgstr[1] "Encontrados %s resultados que coinciden con tu búsqueda."
+
+#: header.php:57
+msgid "Close"
+msgstr "Cerrar"
+
+#: header.php:56
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:1142
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:1141
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Más grande"
+
+#: functions.php:1136
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:1135
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:1130
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:1129
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Regular"
+
+#: functions.php:1124
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:1123
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Pequeña"
+
+#: functions.php:1113
+msgctxt "Name of the white color in the Gutenberg palette"
+msgid "White"
+msgstr "Blanca"
+
+#: functions.php:1108
+msgctxt "Name of the lightest gray color in the Gutenberg palette"
+msgid "Lightest gray"
+msgstr "El gris más claro"
+
+#: functions.php:1103
+msgctxt "Name of the light gray color in the Gutenberg palette"
+msgid "Light gray"
+msgstr "Gris claro"
+
+#: functions.php:1098
+msgctxt "Name of the gray color in the Gutenberg palette"
+msgid "Gray"
+msgstr "Gris"
+
+#: functions.php:1093
+msgctxt "Name of the darker gray color in the Gutenberg palette"
+msgid "Darker Gray"
+msgstr "Gris más oscuro"
+
+#: functions.php:1088
+msgctxt "Name of the darkest gray color in the Gutenberg palette"
+msgid "Darkest gray"
+msgstr "El gris más oscuro"
+
+#: functions.php:1083
+msgctxt "Name of the black color in the Gutenberg palette"
+msgid "Black"
+msgstr "Negro"
+
+#: functions.php:982
+msgid "Search"
+msgstr "Buscar"
+
+#: functions.php:973
+msgid "Previous and next page links"
+msgstr "Enlaces a la página anterior y siguiente"
+
+#: functions.php:971
+msgid "Load more on button click"
+msgstr "Cargar más al hacer clic en el botón"
+
+#: functions.php:969
+msgid "Pagination Type:"
+msgstr "Tipo de paginación:"
+
+#: functions.php:955
+msgid "Choose which type of pagination to display."
+msgstr "Selecciona que tipo de paginación quieres mostrar."
+
+#: functions.php:952
+msgid "Pagination"
+msgstr "Paginación"
+
+#: functions.php:916
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: functions.php:915
+msgid "Sticky status"
+msgstr "Estado fijada"
+
+#: functions.php:913
+msgid "Edit link (for logged in users)"
+msgstr "Enlace edición (para usuarios que han iniciado sesión)"
+
+#: functions.php:911
+msgid "Categories"
+msgstr "Categorías"
+
+#: functions.php:904
+msgid "Choose which meta information to display in Koji."
+msgstr "Selecciona que meta información quieres mostrar en Koji."
+
+#: functions.php:840
+msgid "Retina logo"
+msgstr "Logo retina"
+
+#: functions.php:644 functions.php:651
+msgid "Edit"
+msgstr "Editar"
+
+#: functions.php:631
+msgid "Sticky post"
+msgstr "Entrada fijada"
+
+#: functions.php:619 functions.php:912
+msgid "Comments"
+msgstr "Comentarios"
+
+#: functions.php:609
+msgid "Tagged with"
+msgstr "Etiquetado con"
+
+#: functions.php:599
+msgid "Posted in"
+msgstr "Publicada en"
+
+#: functions.php:586
+msgid "Posted by"
+msgstr "Publicada por"
+
+#: functions.php:576 functions.php:914
+msgid "Post date"
+msgstr "Fecha publicación"
+
+#: functions.php:396
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: functions.php:391
+msgid "Day"
+msgstr "Día"
+
+#: functions.php:389
+msgid "Month"
+msgstr "Mes"
+
+#: functions.php:387
+msgid "Year"
+msgstr "Año"
+
+#: functions.php:385 functions.php:910
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:383
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: functions.php:381
+msgid "Category"
+msgstr "Categoría"
+
+#: functions.php:363 functions.php:398
+msgid "Archives"
+msgstr "Archivo"
+
+#: functions.php:354
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: functions.php:352
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:350
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Estados"
+
+#: functions.php:348
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Enlaces"
+
+#: functions.php:346
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citas"
+
+#: functions.php:344
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: functions.php:342
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imágenes"
+
+#: functions.php:340
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerías"
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:47
+msgid "Mobile Menu"
+msgstr "Menú móvil"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Menú prinicipal"
+
+#. Author of the theme
+#. Translators: $s = name of the theme developer
+#: footer.php:30
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Translators: $s = name of the theme developer
+#: footer.php:30
+msgctxt "Translators: $s = name of the theme developer"
+msgid "Theme by %s"
+msgstr "Tema por %s"
+
+#: comments.php:58
+msgid "Comments closed"
+msgstr "Los comentarios están cerrados"
+
+#: comments.php:15
+msgid "Add Yours &rarr;"
+msgstr "Añade el tuyo &rarr;"
+
+#. Translators: %s = the number of comments
+#: comments.php:7
+msgctxt "Translators: %s = the number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: 404.php:13
+msgid "To the home page"
+msgstr "A la página de inicio"
+
+#: 404.php:11
+msgid "The page you're looking for could not be found. It may have been removed, renamed, or maybe it didn't exist in the first place. You can return to the home page through the link."
+msgstr "No se ha encontrado la página que estás buscando. Debe haber sido eliminada, renombrada, o tal vez nunca existió. Puedes volver a la página de inicio a través del enlace."
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Error 404"
+
+#: functions.php:972
+msgid "Load more on scroll"
+msgstr "Cargar más al desplazarse"
+
+#: searchform.php:5
+msgctxt "Label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: functions.php:1000
+msgid "Check to remove the search toggle from the row of icons."
+msgstr "Marca esta opción para eliminar la opción de búsqueda de la fila de iconos."
+
+#: functions.php:943
+msgid "Select the post meta values to show in previews."
+msgstr "Selecciona los valores meta que mostrar en las vistas previas."
+
+#: functions.php:942
+msgid "Post Meta In Previews:"
+msgstr "Meta de entrada en vista previa:"
+
+#: functions.php:928
+msgid "Post Meta On Single:"
+msgstr "Metas de entrada en individuales:"
+
+#: functions.php:901
+msgid "Post Meta"
+msgstr "Metadatos de la entrada"
+
+#: functions.php:876
+msgid "Fallback Image"
+msgstr "Imagen de sustitución"
+
+#: functions.php:841
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Escala el logo a la mitad del tamaño al que se ha subido, haciéndolo más nítido en las pantallas de alta resolución."
+
+#: functions.php:338
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Minientradas"
+
+#: functions.php:877
+msgid "The selected image will be used when a post is missing a featured image. A default fallback image included in the theme will be used if no image is set."
+msgstr "La imagen seleccionada se utilizará cuando a una entrada le falte su imagen destacada. Se utilizará una imagen alternativa predeterminada incluida en el tema si no se establece ninguna imagen."
+
+#: functions.php:929
+msgid "Select the post meta values to show on single posts."
+msgstr "Selecciona qué metadatos de entradas mostrar en las entradas individuales."
+
+#. Author URI of the theme
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"
